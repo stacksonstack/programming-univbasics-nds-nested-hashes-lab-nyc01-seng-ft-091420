@@ -11,7 +11,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  result = [[DON_G[:name], DON_G[:occupation]], [
+  result = [[DON_G[], DON_G[:occupation]], [
     JOELLE_VD[:name], JOELLE_VD[:occupation]], 
     [PAT_M[:name], PAT_M[:occupation]],[ 
     KATE_G[:name], KATE_G[:occupation]],[
